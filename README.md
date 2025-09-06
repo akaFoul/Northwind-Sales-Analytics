@@ -40,5 +40,11 @@ By combining SQL analysis, Excel reporting, and Power BI dashboards, it delivers
 
 ---
 
-## 📷 Project Screenshots (Optional)
+## 📷 Project Screenshots
 _Add Excel charts, Power BI dashboards, or SQL query snippets here to make the README more visual._
+### Excel Screenshots
+-  What is the average number of orders per customer? Are there high-value repeat customers?
+   <img width="1311" height="566" alt="image" src="https://github.com/user-attachments/assets/9da80de6-dcd9-431c-8004-22454e752908" />
+
+
+
